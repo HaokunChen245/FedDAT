@@ -1,2 +1,2 @@
-# Implementation of FedDAT
+# FedDAT
 Official code release
