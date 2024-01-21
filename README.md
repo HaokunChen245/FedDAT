@@ -64,6 +64,8 @@ bash src/train_vilt.sh
 bash src/train_albef.sh
 ```
 
+---
+
 ## Citation
 
 ```bibtex
