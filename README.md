@@ -1,8 +1,13 @@
 # FedDAT (Federated Dual-Adapter Teacher)
 
-An approach for foundation model finetuning in multi-modal heterogeneous federated learning.
+An approach for foundation model finetuning in multi-modal heterogeneous federated learning. [(Pre-print)](https://arxiv.org/pdf/2308.12305.pdf)
 
-[Pre-print](https://arxiv.org/pdf/2308.12305.pdf)
+![Problem Setup](/assets/fedvqa.png "Magic Gardens")
+
+We propose Dual-Adapter Teacher (DAT) module and apply Mutual Knowledge Distillation (MKD) to mitigate the client local data heterogeneity in different modality.
+
+![Method](/assets/dat.png "Method")
+
 
 ---
 
