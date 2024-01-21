@@ -1,6 +1,6 @@
 # FedDAT (Federated Dual-Adapter Teacher)
 
-An approach for foundation model finetuning in multi-modal heterogeneous federated learning. [(Pre-print)](https://arxiv.org/pdf/2308.12305.pdf)
+An approach for foundation model finetuning in multi-modal heterogeneous federated learning. [ [Pre-print]](https://arxiv.org/pdf/2308.12305.pdf)
 
 ![Problem Setup](/assets/fedvqa.png "Magic Gardens")
 
@@ -64,4 +64,14 @@ bash src/train_vilt.sh
 bash src/train_albef.sh
 ```
 
+## Citation
+
+```bibtex
+@article{chen2023feddat,
+  title={FedDAT: An Approach for Foundation Model Finetuning in Multi-Modal Heterogeneous Federated Learning},
+  author={Chen, Haokun and Zhang, Yao and Krompass, Denis and Gu, Jindong and Tresp, Volker},
+  journal={arXiv preprint arXiv:2308.12305},
+  year={2023}
+}
+```
 
